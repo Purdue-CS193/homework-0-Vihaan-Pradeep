@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+
 This is Vihaan's website. 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -17,9 +18,11 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+- Example
 
 1. Numbered
 2. List
+3.Example
 
 **Bold** and _Italic_ and `Code` text
 
