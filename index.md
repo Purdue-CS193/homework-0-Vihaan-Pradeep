@@ -1,6 +1,5 @@
 ## Welcome to GitHub Pages
-
-## This is Vihaan's website. 
+# Vihaan Pradeep's First CS193 Homework
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -20,6 +19,7 @@ Syntax highlighted code block
 - List
 - Example
 
+
 1. Numbered
 2. List
 3.Example
@@ -29,6 +29,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+-CS193 is pretty fun
+-It is giving me a chance to use these sites
+-It will make it easier to transition to my next cs classes.
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
