@@ -29,9 +29,9 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
--CS193 is pretty fun
--It is giving me a chance to use these sites
--It will make it easier to transition to my next cs classes.
+- CS193 is pretty fun
+- It is giving me a chance to use these sites
+- It will make it easier to transition to my next cs classes.
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
